@@ -95,6 +95,7 @@ public class App {
         return arr3;
     }
 
+    // BUBBLE SORT
     static <T extends Number & Comparable<T>> List<T> bubbleSort(List<T> array)
     {
         List<T> arr = array;
